@@ -19,7 +19,7 @@ This element comes in handy when the content is changed dynamically and the Java
 `data-vcvs-html` – an attribute which shortcode or HTML string.
 
 <aside class="notice">
-Note: `vcvhelper` element is used only in the editor. On public view, it will be stripped.
+Note: <code>vcvhelper</code> element is used only in the editor. On public view, it will be stripped.
 </aside>
 
 ## Rendering HTML

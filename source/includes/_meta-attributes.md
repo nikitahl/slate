@@ -223,14 +223,14 @@ Available shared library list:
 
 Library name | Description
 ------------ | -------
-waypoints  | Uses [waypoints](http://imakewebthings.com/waypoints/) library. Included in the Design Options attribute
-animate    | Uses [animate.css](https://daneden.github.io/animate.css/) library. Included in the Design Options attribute
+waypoints  | Uses <a href="http://imakewebthings.com/waypoints/" target="_blank">waypoints</a> library. Included in the Design Options attribute
+animate    | Uses <a href="https://daneden.github.io/animate.css/" target="_blank">animate.css</a> library. Included in the Design Options attribute
 iconpicker | Uses a set of multiple various icon sets. Typicons, Material, Font Awesome, Entypo, etc.
-imageFilter| Uses [CSSgram](https://una.im/CSSgram/) library.
-lightbox	 | Uses [lightbox](https://lokeshdhakar.com/projects/lightbox2/) library.
-photoswipe | Uses [photoswipe](http://photoswipe.com/) library.
-slickSlider| Uses [slick slider](http://kenwheeler.github.io/slick/) library.
-zoom       | Uses [jQuery zoom](http://www.jacklmoore.com/zoom/) library.
+imageFilter| Uses <a href="https://una.im/CSSgram/" target="_blank">CSSgram</a> library.
+lightbox	 | Uses <a href="https://lokeshdhakar.com/projects/lightbox2/" target="_blank">lightbox</a> library.
+photoswipe | Uses <a href="http://photoswipe.com/" target="_blank">photoswipe</a> library.
+slickSlider| Uses <a href="http://kenwheeler.github.io/slick/" target="_blank">slick slider</a> library.
+zoom       | Uses <a href="http://www.jacklmoore.com/zoom/" target="_blank">jQuery zoom</a> library.
 
 ## groups
 

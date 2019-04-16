@@ -7,7 +7,7 @@ However, the `elementComponent` has some additional methods available, to ease t
 These methods can be called within an `elementComponet` class by using `this` keyword, e.g.: `this.applyDO(‘all’)`.
 
 <aside class="notice">
-Note: Some of these methods accept a `ref` as an argument, this `ref` usually is a <a href="https://reactjs.org/docs/refs-and-the-dom.html" target="_blank">React ref</a> of an HTML tag.
+Note: Some of these methods accept a <code>ref</code> as an argument, this <code>ref</code> usually is a <a href="https://reactjs.org/docs/refs-and-the-dom.html" target="_blank">React ref</a> of an HTML tag.
 </aside>
 
 ## Component methods

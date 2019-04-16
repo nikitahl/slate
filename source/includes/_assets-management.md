@@ -76,13 +76,14 @@ To download only an element `“element/elementName”` value has to be specifie
 
 Available shared asset list
 
+
 Library name | Description | Element dependant
 -------------|-------------|------------------
-waypoints |	Uses waypoints library. Included in the Design Options attribute |	No
-animate |	Uses animate.css library. Included in the Design Options attribute |	No
+waypoints |	Uses <a href="http://imakewebthings.com/waypoints/" target="_blank">waypoints</a> library. Included in the Design Options attribute |	No
+animate |	Uses <a href="https://daneden.github.io/animate.css/" target="_blank">animate.css</a> library. Included in the Design Options attribute |	No
 iconpicker |	Uses a set of multiple various icon sets. Typicons, Material, Font Awesome, Entypo, etc. Bundled with an Icon element. |	Yes
-imageFilter	| Uses CSSgram library. Bundled with image type elements like Single Image. |	Yes
-lightbox |	Uses lightbox library. Bundled with image type elements like Single Image. |	Yes
-photoswipe |	 Uses photoswipe library. Bundled with image type elements like Single Image |	Yes
-slickSlider |	Uses slick slider library. Bundled with elements that have a sliding option like Simple Image Slider. |	Yes
-zoom |	Uses jQuery zoom library. Bundled with image type elements like Single Image | 	Yes
+imageFilter	| Uses <a href="https://una.im/CSSgram/" target="_blank">CSSgram</a> library. Bundled with image type elements like Single Image. |	Yes
+lightbox |	Uses <a href="https://lokeshdhakar.com/projects/lightbox2/" target="_blank">lightbox</a> library. Bundled with image type elements like Single Image. |	Yes
+photoswipe |	 Uses <a href="http://photoswipe.com/" target="_blank">photoswipe</a> library. Bundled with image type elements like Single Image |	Yes
+slickSlider |	Uses <a href="http://kenwheeler.github.io/slick/" target="_blank">slick slider</a> library. Bundled with elements that have a sliding option like Simple Image Slider. |	Yes
+zoom |	Uses <a href="http://www.jacklmoore.com/zoom/" target="_blank">jQuery zoom</a> library. Bundled with image type elements like Single Image | 	Yes
